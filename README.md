@@ -11,7 +11,7 @@ Geospatial Data Engineer | GNSS | Space Weather | Python & PostGIS
 👋 About Me
 
 I work in geospatial engineering with a focus on GNSS data, space weather, and large-scale spatial analytics.
-Most of my work revolves around building tools and pipelines that make scientific geospatial datasets easier to understand — from ionospheric visualizations to high-performance ETL systems and OGC-compliant services.
+Most of my work revolves around building tools and pipelines that make scientific geospatial datasets easier to understand - from ionospheric visualizations to high-performance ETL systems and OGC-compliant services.
 
 I enjoy the whole workflow: collecting, processing, storing, visualizing, and serving geospatial data in clean, reusable ways.
 
