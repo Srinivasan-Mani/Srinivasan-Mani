@@ -1,6 +1,18 @@
 <p align="center">🌍 S R I N I V A S A N  M A N I</p>
-<p align="center">Geospatial Data Engineer • GNSS • Space Weather • Python and PostGIS</p>
-<p align="center"> <a href="https://linkedin.com/in/Srinivasan-mani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:srinivaasan.mani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/Srinivasan-Mani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://srinivasan-mani-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinivasan-mani-3b7a72b2/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:srinivaasan.mani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Srinivasan-Mani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://srinivasan-mani-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 🎨 About Me
 
 I work in geospatial engineering with a focus on GNSS, space weather, and large geospatial datasets.
