@@ -54,4 +54,13 @@ German (A2)
 Tamil (Native)
 
 📫 Get in Touch
-<p align="left"> <a href="mailto:srinivaasan.mani@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"></a> <a href="https://linkedin.com/in/Srinivasan-mani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> </p>
+
+<p align="left">
+  <a href="mailto:srinivaasan.mani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/srinivasan-mani-3b7a72b2/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
