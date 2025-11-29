@@ -32,63 +32,6 @@ GIS and Remote Sensing
 <p align="left"> <img src="https://img.shields.io/badge/QGIS-3A8E4F?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/GeoServer-4695EB?style=for-the-badge&logo=geoserver&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" /> <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge" /> <img src="https://img.shields.io/badge/Metashape-00A859?style=for-the-badge" /> <img src="https://img.shields.io/badge/ERDAS%20Imagine-FF7F00?style=for-the-badge" /> </p>
 Specialized Domains
 <p> <img src="https://img.shields.io/badge/GNSS-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Space%20Weather-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ionospheric%20Modeling-663399?style=for-the-badge" /> <img src="https://img.shields.io/badge/ETL%20Pipelines-555555?style=for-the-badge" /> </p>
-🛰️ Experience
-German Aerospace Center (DLR)
-
-Mar 2025 to Sep 2025
-
-Built scalable schemas for GNSS and ionospheric datasets
-
-Created Marimo based visualization tools for NEDM electron density
-
-Developed Python pipelines for large ionospheric datasets
-
-Delivered OGC services using GeoServer with Docker
-
-Supported real time ionospheric monitoring and forecasting
-
-Trimble
-
-Senior GIS Analyst
-Jan 2019 to Feb 2023
-
-Led a national logistics data project that improved routing by 50 percent
-
-Maintained high accuracy across large spatial datasets
-
-Delivered real time driver information tools during COVID
-
-Mentored GIS analysts and improved team workflows
-
-GIS Engineer
-Apr 2017 to Dec 2019
-
-Analysed routing datasets for U.S. Mexico transport operations
-
-Integrated road restrictions, bridge limits, speed rules, and HazMat routes
-
-Improved navigation reliability across more than 25,000 miles
-
-🎓 Education
-
-Master of Engineering in Geomatics
-Hochschule Neubrandenburg, Germany
-2023 to Present
-
-Bachelor of Engineering in Geo Informatics
-Anna University, India
-
-📌 Featured Work
-
-GNSS ionospheric visualization tool
-
-Scintillation data processing pipeline
-
-LULC classification using Google Earth Engine
-
-OGC Features API deployment
-
-3D electron density and satellite visualization tools
 
 🌐 Languages
 
