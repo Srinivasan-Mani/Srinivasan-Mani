@@ -41,7 +41,7 @@ Spatial analytics for navigation and routing systems
 Programming
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,postgres,js,html,css,docker,git" height="50" /> </p>
 GIS and Remote Sensing
-<p align="left"> <img src="https://img.shields.io/badge/QGIS-3A8E4F?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/GeoServer-4695EB?style=for-the-badge&logo=geoserver&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" /> <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge" /> <img src="https://img.shields.io/badge/Metashape-00A859?style=for-the-badge" /> <img src="https://img.shields.io/badge/ERDAS%20Imagine-FF7F00?style=for-the-badge" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/QGIS-3A8E4F?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/GeoServer-4695EB?style=for-the-badge&logo=geoserver&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" /> <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge" /> <img src="https://img.shields.io/badge/ERDAS%20Imagine-FF7F00?style=for-the-badge" /> </p>
 Specialized Domains
 <p> <img src="https://img.shields.io/badge/GNSS-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Space%20Weather-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ionospheric%20Modeling-663399?style=for-the-badge" /> <img src="https://img.shields.io/badge/ETL%20Pipelines-555555?style=for-the-badge" /> </p>
 
